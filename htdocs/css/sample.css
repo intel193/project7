@@ -1,5 +1,14 @@
 #textBox {
+  font-family:Impact;
   font-size : 15px;
+  margin-top:10px;
+  color: #fff;
+}
+
+#textBox1 {
+  font-family:Impact;
+  font-size : 13px;
+  font-weight: bold;
   margin-top:25px;
   color: #fff;
 }
@@ -7,7 +16,12 @@
 #pictbox {
   margin-bottom:30px;
   margin-top:30px;
-  height: 200em;
+  height: 50em;
+}
+
+#pictbox1 {
+  margin-left: 25px;
+  margin-bottom:5px;
 }
 
 #toptext {
@@ -31,10 +45,26 @@ background-color :rgba(26, 24, 24, 0.8); /* 背景のみ半透明 */
   margin-left: auto;
 }
 
-img {
-  max-width: 100%; 
-}
-
+a {
+  color:#ffffff;
+  text-decoration: none;
+  }
+  
+  a:link {
+  color:#ffffff;
+  }
+  
+  a:visited {
+  color:#ffffff;
+  }
+  
+  a:hover {
+  color:#aaaaaa;
+  }
+  
+  a:active {
+  color:#ff5858;
+  }
 
 .search_container{
   position: relative;
@@ -54,6 +84,7 @@ img {
   background: #3879D9;
 }
 .search_container input[type="text"]:focus {
+  color:#ffffff;
   outline: 0;
 }
 .search_container input[type="submit"]{

@@ -21,7 +21,9 @@
   <div class="sticky-top" id="header">
     <div class="container1">
       <div class="row">
-        <div class="col-md-8" id="textBox">漫画家になろう</div>
+        <div class="col-md-8" id="textBox">漫画家になろう<br>
+        <a href="index.php"><img src="img/apple-icon-1.png" alt="海の写真" title="空と海" width="40" height="40" id="pictbox1"></a></div>
+   
 
         <div class="col-md-2" id="toptext">
           <form method="get" action="#" class="search_container">
@@ -32,9 +34,9 @@
 
         <div class="col-md-2">
           <div class="row">
-            <div class="col-md-5" id="textBox"></div>
-            <div class="col-md-4" id="textBox">新規登録</div>
-            <div class="col-md-3" id="textBox">ログイン</div>
+            <div class="col-md-4" id="textBox1"></div>
+            <div class="col-md-4" id="textBox1"><a href="https://www.google.co.jp/" target="_blank">新規登録</a></div>
+            <div class="col-md-3" id="textBox1"><a href="https://www.google.co.jp/" target="_blank">ログイン</a></div>
           </div>
         </div>
 
