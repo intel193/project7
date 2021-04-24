@@ -12,16 +12,39 @@
     <!-- BootstrapのJS読み込み -->
 	<script src="js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="css/sample.css">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   </head>
   <body>
-  <div class=”row”>
-  <div class=”col-md-12”>
-	  <div id=textBox>KADOKAWAの無料漫画あいばーーーん惨状！（マンガ）3280作品勢揃い</div>
 
-</div>
-    <div class=”col-md-6”>コンテンツ</div>
-    <div class=”col-md-6”>コンテンツ</div>
-  </div>
-  	<img src="img/anime.jpg" alt="海の写真" title="空と海">
+    <!-- ここから -->
+    <div class="container">
+      <div class=”row”>
+        <div class=”col-md-2”>
+	        <div id=textBox>漫画家になろう
+          </div>       
+   
+        <div class=”col-md-2”>
+          <form method="get" action="#" class="search_container">
+           <input type="text" size="25" placeholder="　キーワード検索">
+           <input type="submit" value="&#xf002">
+          </form>
+        </div>
+
+        <div class=”col-md-6”>コンテンツ</div>
+        <div class=”col-md-6”>コンテンツ</div>
+        <img src="img/anime.jpg" alt="海の写真" title="空と海">
+      </div>
+    </div>
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   </body>
 </html>
