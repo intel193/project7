@@ -17,25 +17,30 @@
   <body>
 
     <!-- ここから -->
+    <div class="sticky-top">
     <div class="container">
-      <div class=”row”>
-        <div class=”col-md-2”>
-	        <div id=textBox>漫画家になろう
-          </div>       
-   
-        <div class=”col-md-2”>
+  
+      <div class="row">
+        <div class="col-md-5" id="textBox">漫画家になろう</div>       
+        
+        <div class="col-md-3" id="toptext">
           <form method="get" action="#" class="search_container">
-           <input type="text" size="25" placeholder="　キーワード検索">
+           <input type="text" size="30" placeholder="作品名、作家名を入力してください">
            <input type="submit" value="&#xf002">
           </form>
         </div>
 
-        <div class=”col-md-6”>コンテンツ</div>
-        <div class=”col-md-6”>コンテンツ</div>
-        <img src="img/anime.jpg" alt="海の写真" title="空と海">
+        <div class="col-md-4">
+          <div class="row">
+           <div class="col-md-3" id="textBox">新規登録</div>
+           <div class="col-md-2" id="textBox">ログイン</div>
+          </div>
+        </div> 
+
+        <img src="img/anime.jpg" alt="海の写真" title="空と海" id="pictbox">
       </div>
     </div>
- 
+    </div>
   
   
   

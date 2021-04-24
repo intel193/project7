@@ -1,6 +1,21 @@
 #textBox {
-  font-size : 10px;
+  font-size : 15px;
+  margin-top:25px;
 }
+
+#pictbox {
+  margin-bottom:30px;
+  margin-top:30px;
+  height: 200em;
+}
+
+#toptext {
+  margin-top:15px;
+}
+
+#header1 {
+    position:fixed;
+  }
 
 
 .search_container{
@@ -10,13 +25,14 @@
   padding: 3px 10px;
   border-radius: 20px;
   height: 2.2em;
-  width: 250px;
+  width: 280px;
   overflow: hidden;
   background: #3879D9;
 }
 .search_container input[type="text"]{
   border: none;
-  height: 2.0em;
+  font-size: 0.8em;
+  height: 1.8em;
   background: #3879D9;
 }
 .search_container input[type="text"]:focus {
