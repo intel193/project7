@@ -1,3 +1,53 @@
+/* idセレクタ。指定idを持つタグに適用される */
 #textBox {
-  font-size : 10px;
+    font-size : 13.5px;
 }
+#kensakufont {
+    font-size : 15px;
+}
+
+#tourokufont {
+    font-size : 10px;
+}
+
+#test {
+    font-size : 14px;
+}
+
+#test1 {
+    font-size : 14px;
+}
+
+.search_container{
+    position: relative;
+    box-sizing: border-box;
+    border: 2px solid #4e4e4e;
+    display: block;
+    padding: 3px 10px;
+    border-radius: 3px;
+    height: 2.3em;
+    width: 300px;
+    overflow: hidden;
+  }
+  .search_container input[type="text"]{
+    border: none;
+    height: 1.8em;
+    font-size : 13px;
+  }
+  .search_container input[type="text"]:focus {
+    outline: 0;
+  }
+  .search_container input[type="submit"]{
+    cursor: pointer;
+    font-family: FontAwesome;
+    border: none;
+    background: #4e4e4e;
+    color: #fff;
+    position: absolute;
+    width: 2.5em;
+    height: 3.0em;
+    right:0px;
+    top: -5px;
+    outline : none;
+  }
+  
