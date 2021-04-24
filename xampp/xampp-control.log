@@ -1,0 +1,30 @@
+18:36:07  [main] 	Initializing Control Panel
+18:36:07  [main] 	Windows Version:  Home  64-bit
+18:36:07  [main] 	XAMPP Version: 8.0.3
+18:36:07  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:36:07  [main] 	Running with Administrator rights - good!
+18:36:07  [main] 	XAMPP Installation Directory: "c:\users\itomari\project7\xampp\"
+18:36:07  [main] 	Checking for prerequisites
+18:36:07  [main] 	All prerequisites found
+18:36:07  [main] 	Initializing Modules
+18:36:07  [main] 	Starting Check-Timer
+18:36:07  [main] 	Control Panel Ready
+18:36:16  [Apache] 	Installing service...
+18:36:17  [Apache] 	Successful!
+18:36:19  [mysql] 	Installing service...
+18:36:20  [mysql] 	Successful!
+18:36:21  [filezilla] 	Setting Service Name...
+18:36:21  [filezilla] 	Setting Service Display Name...
+18:36:21  [filezilla] 	Installing service...
+18:36:21  [filezilla] 	Successful!
+18:36:23  [Tomcat] 	Installing service...
+18:36:23  [Tomcat] 	Service was NOT (un)installed!
+18:36:37  [Tomcat] 	Attempting to start Tomcat app...
+18:36:37  [Tomcat] 	Tomcat Started/Stopped with errors, return code: 1
+18:36:37  [Tomcat] 	Make sure you have Java JDK or JRE installed and the required ports are free
+18:36:37  [Tomcat] 	Check the "/xampp/tomcat/logs" folder for more information
+18:36:38  [Apache] 	Attempting to start Apache service...
+18:37:05  [main] 	Executing "c:\users\itomari\project7\xampp\"
+18:38:57  [main] 	Deinitializing Modules
+18:38:57  [main] 	Deinitializing Control Panel
+
