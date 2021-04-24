@@ -1,6 +1,7 @@
 #textBox {
   font-size : 15px;
   margin-top:25px;
+  color: #fff;
 }
 
 #pictbox {
@@ -11,11 +12,28 @@
 
 #toptext {
   margin-top:15px;
+  margin-bottom:20px;
 }
 
 #header1 {
     position:fixed;
   }
+
+#header {
+background-color :rgba(26, 24, 24, 0.8); /* 背景のみ半透明 */
+}
+
+.container1{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 1rem);
+  padding-left: var(--bs-gutter-x, 1rem);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  max-width: 100%; 
+}
 
 
 .search_container{
