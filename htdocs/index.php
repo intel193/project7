@@ -16,7 +16,7 @@
   <body>
   <div class=”row”>
   <div class=”col-md-12”>
-	  <div id=textBox>KADOKAWAの無料漫画（マンガ）3280作品勢揃い</div>
+	  <div id=textBox>KADOKAWAの無料漫画あいばーーーん惨状！（マンガ）3280作品勢揃い</div>
 
 </div>
     <div class=”col-md-6”>コンテンツ</div>
