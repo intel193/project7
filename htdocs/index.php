@@ -27,7 +27,7 @@
 
         <div class="col-md-2" id="toptext">
           <form method="get" action="#" class="search_container">
-            <input type="text" size="30" placeholder="作品名、作家名を入力してください">
+            <input type="text" size="40" placeholder="作品名、作家名を入力してください">
             <input type="submit" value="&#xf002">
           </form>
         </div>

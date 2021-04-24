@@ -9,7 +9,7 @@
   font-family:Impact;
   font-size : 13px;
   font-weight: bold;
-  margin-top:25px;
+  margin-top:30px;
   color: #fff;
 }
 
@@ -17,6 +17,7 @@
   margin-bottom:30px;
   margin-top:30px;
   height: 50em;
+  width: 120em;
 }
 
 #pictbox1 {
@@ -25,7 +26,7 @@
 }
 
 #toptext {
-  margin-top:15px;
+  margin-top:20px;
   margin-bottom:20px;
 }
 
@@ -78,8 +79,9 @@ a {
   background: #3879D9;
 }
 .search_container input[type="text"]{
+  font-family:Impact;
   border: none;
-  font-size: 0.8em;
+  font-size: 0.7em;
   height: 1.8em;
   background: #3879D9;
 }
@@ -101,5 +103,5 @@ a {
   outline : none;
 }
 .search_container ::-webkit-input-placeholder {
-  color: #fff;
+  color: rgb(233, 233, 233);
 }
