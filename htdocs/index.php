@@ -15,32 +15,31 @@
   <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   </head>
   <body>
-
     <!-- ここから -->
     <div class="sticky-top">
-    <div class="container">
-  
-      <div class="row">
-        <div class="col-md-5" id="textBox">漫画家になろう</div>       
-        
-        <div class="col-md-3" id="toptext">
-          <form method="get" action="#" class="search_container">
-           <input type="text" size="30" placeholder="作品名、作家名を入力してください">
-           <input type="submit" value="&#xf002">
-          </form>
-        </div>
-
-        <div class="col-md-4">
-          <div class="row">
-           <div class="col-md-3" id="textBox">新規登録</div>
-           <div class="col-md-2" id="textBox">ログイン</div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5" id="textBox">漫画家になろう</div>       
+          
+          <div class="col-md-3" id="toptext">
+            <form method="get" action="#" class="search_container">
+            <input type="text" size="30" placeholder="作品名、作家名を入力してください">
+            <input type="submit" value="&#xf002">
+            </form>
           </div>
-        </div> 
 
-        <img src="img/anime.jpg" alt="海の写真" title="空と海" id="pictbox">
+          <div class="col-md-4">
+            <div class="row">
+            <div class="col-md-3" id="textBox">新規登録</div>
+            <div class="col-md-2" id="textBox">ログイン</div>
+            </div>
+          </div> 
+
+        </div>
       </div>
     </div>
-    </div>
+    <img src="img/anime.jpg" alt="海の写真" title="空と海" id="pictbox">
+      
   
   
   
